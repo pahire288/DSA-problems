@@ -1,5 +1,20 @@
 
-    
+    //Best Time to Buy and Sell Stock I
+
+//     Example 1
+// Input
+// prices = [7, 1, 5, 3, 6, 4]
+
+// Output
+// Max Profit: 5
+
+// Explanation
+// Buy on day 2 (price = 1).
+// Sell on day 5 (price = 6).
+// Profit = 6 - 1 = 5./
+
+
+
     let prices = [7,1,3,5,8,2];
     
     let min_price = Infinity; 
